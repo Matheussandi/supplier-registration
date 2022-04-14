@@ -1,0 +1,8 @@
+{
+    "name":"supplier/register",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+}
